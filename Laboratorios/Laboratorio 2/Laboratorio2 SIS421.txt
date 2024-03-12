@@ -1,0 +1,6 @@
+Dataset:
+https://www.kaggle.com/code/sunilthite/cat-vs-dog-classification-notebook/input
+
+
+Github:
+https://github.com/mickychog/InteligenciaArtificial2MACG--SIS421/tree/main/Laboratorios/
